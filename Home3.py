@@ -59,5 +59,5 @@ print()
 for months in numbers:
     print(months)
 
-print(f'\nWarmest month is {monthName(monthWarm)} (from {warmIndex+1} to {warmIndex+8}), {warm} deg ')
-print(f'Coldest month is {monthName(monthCold)} (from {coldIndex+1} to {coldIndex+8}), {cold} deg')
+print(f'\nWarmest month is {monthName(monthWarm)} (from {warmIndex+1} to {warmIndex+7}), {warm} deg ')
+print(f'Coldest month is {monthName(monthCold)} (from {coldIndex+1} to {coldIndex+7}), {cold} deg')
